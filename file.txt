@@ -1,1 +1,1 @@
-aaa
+1. nowa funkcjonalnosc na branchu master
