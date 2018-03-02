@@ -1,2 +1,2 @@
-1. nowa funkcjonalnosc na branchu
-new_branch
+1. nowa funkcjonalnosc na branchu master
+
