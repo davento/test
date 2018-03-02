@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 1. nowa funkcjonalnosc na branchu master
-
-=======
-aaa
->>>>>>> parent of 3707408... added text to file
+2.to jest content ze strony github
